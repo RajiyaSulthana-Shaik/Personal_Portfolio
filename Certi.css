@@ -20,7 +20,7 @@
 
 .cc1{
     width: 100%;
-    height: 160vh;
+    height: 200vh;
 }
 .ce1{
     position: relative;
@@ -57,8 +57,8 @@ span{
   }
   
   .image-card img {
-    width: 90%;
-    height: 200px;
+    width: 100%;
+    height: 250px;
     object-fit: cover;
     border-radius: 10px;
   }
@@ -70,7 +70,7 @@ span{
   }
   
   .image-text h3 {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: bold;
     margin-bottom: 5px;
   }
@@ -85,9 +85,10 @@ span{
   }
   
   .image-card-1 img {
-    width: 80%;
-    height: 400px;
+    width: 100%;
+    height: 490px;
     object-fit: cover;
     border-radius: 10px;
   }
   
+
