@@ -54,7 +54,7 @@
     position: absolute;
     text-align: left;
     left: 100px;
-    padding-top: 230px;
+    padding-top: 260px;
     color: white;
     font-size: 30px;
     font-style:italic ;
@@ -64,7 +64,7 @@
     position: absolute;
     text-align: left;
     left: 100px;
-    padding-top: 340px;
+    padding-top: 370px;
     color: yellow;
     font-size: 15px;
 }
@@ -73,7 +73,7 @@
     position: absolute;
     text-align: left;
     left: 100px;
-    padding-top: 340px;
+    padding-top: 400px;
     margin-left: 80px;
     color: yellow;
     font-size: 15px;
@@ -82,7 +82,7 @@
     position: absolute;
     text-align: left;
     left: 100px;
-    padding-top: 380px;
+    padding-top: 420px;
     font-size: 25px;
 }
 .resume{
@@ -90,7 +90,7 @@
     text-align: left;
     left: 100px;
     padding-top: 340px;
-    margin-top: 420px;
+    margin-top: 460px;
     display: inline-block;
     padding: 5px 18px;
     background: orange;
