@@ -3,14 +3,17 @@
     background-color: rgb(246, 217, 182);
     text-align: center;
     width: 100%;
-    height: 86.3vh;
+    height: 150vh;
 }
 .ab2{
     padding-top: 65px;
+    align-items: center;
+    padding-right: -10px;
     height: 300px;
     width: 500px;
 }
 .ab6{
+    padding-top: 15px;
     font-style: italic;
     font-size: 20px;
 }
