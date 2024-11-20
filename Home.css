@@ -1,0 +1,139 @@
+/* <!-- -------------------HOME---------------- --> */
+.Ho1{
+    background-color: rgb(4, 32, 69);
+    /* background: url(Home_img.jpg)no-repeat;
+    background-size: cover; */
+}
+.dd1{
+    background: url(Home_img.jpg)no-repeat;
+    background-size: cover;
+}
+.navbar-brand {
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+.nav-link {
+    margin-top: 10px;
+    margin-left: 70px;
+    color: white;
+    font-size: 20px;
+}
+.n1 {
+    text-align: left;
+    /* margin-top: 100px; */
+    padding-top: 100px;
+    padding-left: 180px;
+    color: rgb(119, 115, 115);
+}
+.n2 {
+    text-align: left;
+    padding-top: 5px;
+    margin-left: 180px;
+    color: white;
+    font-size: 30px;
+}
+.n3 {
+    text-align: left;
+    padding-top: 5px;
+    margin-left: 180px;
+    color: white;
+    font-size: 40px;
+}
+.w1{
+    color: orange;
+}
+.p1 {
+    text-align: left;
+    padding-top: 5px;
+    margin-left: 180px;
+    color: white;
+    font-size: 30px;
+    font-style:italic ;
+}
+.p2{
+    display: inline;
+    text-align: left;
+    padding-top: 5px;
+    margin-left: 180px;
+    color: yellow;
+    font-size: 15px;
+}
+.p3{
+    display: inline;
+    margin-left: 10px;
+    color: yellow;
+    font-size: 15px;
+}
+.s1{
+    margin-left: 180px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.resume{
+    margin-left: 180px;
+    margin-top: 15px;
+    display: inline-block;
+    padding: 5px 18px;
+    background: orange;
+    border-radius: 30px;
+    font-size: 16px;
+    color: white;
+    letter-spacing: 1px;
+    text-decoration-line: none;
+    font-weight: 600;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 1.5s;
+    box-shadow: 0 0 5px orange,
+    0 0 25px orange;
+    margin-bottom: 199px;
+}
+.resume:hover{
+    text-decoration-line: none;
+    box-shadow: 0 0 5px orange,
+    0 0 25px orange, 0 0 50px orange,
+    0 0 100px orange, 0 0 200px orange
+}
+@keyframes slideRight{
+    0% {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes slideLeft{
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+@keyframes slideTop{
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+@keyframes slideBottom{
+    0% {
+        transform: translateY(-100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+/* <!-- -------------------HOME---------------- --> */

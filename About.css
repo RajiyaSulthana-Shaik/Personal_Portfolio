@@ -1,0 +1,52 @@
+
+.ab1{
+    background-color: rgb(246, 217, 182);
+    text-align: center;
+    width: 100%;
+    height: 86.3vh;
+}
+.ab2{
+    padding-top: 65px;
+    height: 300px;
+    width: 500px;
+}
+.ab6{
+    font-style: italic;
+    font-size: 20px;
+}
+.ab3{
+    color: rgb(50, 35, 219);
+    font-size: 30px;
+}
+.ab4{
+    color: rgb(237, 23, 215);
+    font-size: 30px;
+}
+.ab5{
+    color: rgb(5, 111, 76);
+    font-size: 30px;
+}
+
+.ab7{
+    margin: 40px;  
+    font-size: 15px;
+}
+
+.h2{
+    background-color: rgb(4, 32, 69);
+    /* background: url(Home_img.jpg)no-repeat;
+    background-size: cover; */
+}
+
+.navbar-brand {
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+.nav-link {
+    margin-top: 10px;
+    margin-left: 70px;
+    color: white;
+    font-size: 20px;
+}
