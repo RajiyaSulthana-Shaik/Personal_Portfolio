@@ -5,8 +5,10 @@
     background-size: cover; */
 }
 .dd1{
+    position: relative;
     background: url(Home_img.jpg)no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 .navbar-brand {
     padding: 20px;
@@ -21,23 +23,27 @@
     font-size: 20px;
 }
 .n1 {
+    position: absolute;
     text-align: left;
+    left: 100px;
     /* margin-top: 100px; */
     padding-top: 100px;
-    padding-left: 180px;
+    /* padding-left: 180px; */
     color: rgb(119, 115, 115);
 }
 .n2 {
+    position: absolute;
     text-align: left;
-    padding-top: 5px;
-    margin-left: 180px;
+    left: 100px;
+    padding-top: 130px;
     color: white;
     font-size: 30px;
 }
 .n3 {
+    position: absolute;
     text-align: left;
-    padding-top: 5px;
-    margin-left: 180px;
+    left: 100px;
+    padding-top: 170px;
     color: white;
     font-size: 40px;
 }
@@ -45,35 +51,46 @@
     color: orange;
 }
 .p1 {
+    position: absolute;
     text-align: left;
-    padding-top: 5px;
-    margin-left: 180px;
+    left: 100px;
+    padding-top: 230px;
     color: white;
     font-size: 30px;
     font-style:italic ;
 }
 .p2{
     display: inline;
+    position: absolute;
     text-align: left;
-    padding-top: 5px;
-    margin-left: 180px;
+    left: 100px;
+    padding-top: 340px;
     color: yellow;
     font-size: 15px;
 }
 .p3{
     display: inline;
-    margin-left: 10px;
+    position: absolute;
+    text-align: left;
+    left: 100px;
+    padding-top: 340px;
+    margin-left: 80px;
     color: yellow;
     font-size: 15px;
 }
 .s1{
-    margin-left: 180px;
-    padding-top: 10px;
+    position: absolute;
+    text-align: left;
+    left: 100px;
+    padding-top: 380px;
     font-size: 25px;
 }
 .resume{
-    margin-left: 180px;
-    margin-top: 15px;
+    position: absolute;
+    text-align: left;
+    left: 100px;
+    padding-top: 340px;
+    margin-top: 420px;
     display: inline-block;
     padding: 5px 18px;
     background: orange;
